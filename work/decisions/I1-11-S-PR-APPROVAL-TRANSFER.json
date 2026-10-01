@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "I1-11-S-PR-APPROVAL-TRANSFER",
+  "kind": "publication",
+  "human": {
+    "type": "human",
+    "kind": "github",
+    "id": "zpresende"
+  },
+  "role": "maintainer",
+  "subject": {
+    "kind": "batch",
+    "id": "I1-11-S-PR-20260930.transfer.I1-11-S-PR-20260930-OP",
+    "revision": "sha256-v1:2ea79db0b90ff7c67af098647f13ea63d139e512285b5e1682aea1bf57476885"
+  },
+  "outcome": "approved",
+  "supersedes": null,
+  "evidence": {
+    "response": "yes you may",
+    "sessionReference": null
+  },
+  "recordedAt": "2026-09-30T21:27:27.106Z"
+}

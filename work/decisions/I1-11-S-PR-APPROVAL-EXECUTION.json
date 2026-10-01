@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "I1-11-S-PR-APPROVAL-EXECUTION",
+  "kind": "publication",
+  "human": {
+    "type": "human",
+    "kind": "github",
+    "id": "zpresende"
+  },
+  "role": "maintainer",
+  "subject": {
+    "kind": "batch",
+    "id": "I1-11-S-PR-20260930.execution",
+    "revision": "sha256-v1:f5002c8c30f30bdf72b8a3e554c241913bb1ea33decff08c7dadab8d01fed42f"
+  },
+  "outcome": "approved",
+  "supersedes": null,
+  "evidence": {
+    "response": "yes you may",
+    "sessionReference": null
+  },
+  "recordedAt": "2026-09-30T21:27:27.106Z"
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "I1-11-S-COMMIT-APPROVAL-20260928-BATCH",
+  "kind": "publication",
+  "human": {
+    "type": "human",
+    "kind": "github",
+    "id": "zpresende"
+  },
+  "role": "maintainer",
+  "subject": {
+    "kind": "batch",
+    "id": "I1-11-S-COMMIT-20260926",
+    "revision": "sha256-v1:16f0fbb94b59324d3f558caa7c29dbba65ca29aa26ddf678bff09ad5ba68750f"
+  },
+  "outcome": "approved",
+  "supersedes": null,
+  "evidence": {
+    "response": "yes",
+    "sessionReference": null
+  },
+  "recordedAt": "2026-09-28T09:00:47.060007+00:00"
+}
