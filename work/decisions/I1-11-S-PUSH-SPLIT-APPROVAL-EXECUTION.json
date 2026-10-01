@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "I1-11-S-PUSH-SPLIT-APPROVAL-EXECUTION",
+  "kind": "publication",
+  "human": {
+    "type": "human",
+    "kind": "github",
+    "id": "zpresende"
+  },
+  "role": "maintainer",
+  "subject": {
+    "kind": "batch",
+    "id": "I1-11-S-PUSH-SPLIT-20260930.execution",
+    "revision": "sha256-v1:8f4818a5c7dcd7cc25e85c85caa321717e95ca9cf24570ed9002b0fc96ea5fed"
+  },
+  "outcome": "approved",
+  "supersedes": null,
+  "evidence": {
+    "response": "yes you may",
+    "sessionReference": null
+  },
+  "recordedAt": "2026-09-30T19:57:33.993Z"
+}
